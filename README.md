@@ -1,2 +1,2 @@
-# deskstop_changer_ub
+# desktop_changer_ub
 desktop changer for ubuntu
