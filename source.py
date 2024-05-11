@@ -1,13 +1,14 @@
 # script for changing wallpaper
 # 5.24
-# A Higgins
+# Andrew-at
+# boilerplate for a larger application with better file select coming later
 import os, os.path, time, random
 
 def set_wallpaper():
-    """sets the wallpaper via os.system"""
+    """sets the wallpaper via os.system via 'Ubuntu' """
     file = 'spring.jpg'
     file2 = 'fall.jpg'
-    file_path = '/home/aurelius/Pictures/Wallpapers/'
+    file_path = '/home/BLANK/Pictures/Wallpapers/'
 
     theme = input("Please select either light or dark theme:")
     # if/else statement for light or dark theme
