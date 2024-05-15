@@ -21,6 +21,3 @@ def set_wallpaper():
         os.system(command)
 
 set_wallpaper()
-file_path = '/home/aurelius/Pictures/Wallpapers/'
-
-print(len(file_path))
